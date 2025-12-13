@@ -112,9 +112,9 @@
     <term name="collection">collection</term>
     <term name="dataset">dataset</term>
     <term name="document">document</term>
-    <term name="entry">entry</term>
-    <term name="entry-dictionary">dictionary entry</term>
-    <term name="entry-encyclopedia">encyclopedia entry</term>
+    <term name="entry">hasło</term>
+    <term name="entry-dictionary">hasło w słowniku</term>
+    <term name="entry-encyclopedia">hasło w encyklopedii</term>
     <term name="event">event</term>
     <!-- figure is in the list of locator terms -->
     <term name="graphic">graphic</term>
